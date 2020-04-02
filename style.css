@@ -1,0 +1,132 @@
+
+/* --------------------------------------- Heading */
+
+h1 {
+    margin: 0
+}
+
+h3{
+    text-align: center;
+    letter-spacing: 2px;
+    padding-top: 15%;
+}
+.uppercase {
+text-transform: uppercase;
+}
+
+header {
+    text-align: center;
+    letter-spacing: 4px;
+    margin: auto;
+    background-color: rgb(201, 201, 201);
+    
+}
+
+
+/* --------------------------------------- Information About Me */
+
+.about-me {
+text-align: center;
+padding: 4%;
+font-size: 110%;
+letter-spacing: 2px;
+font-weight: bold;
+
+}
+
+/* --------------------------------------- Buttons */
+
+#button{
+    
+  font-size: 125%;
+  list-style-type: none;
+  letter-spacing: 2px;
+  padding-top: 0;
+   
+}
+
+#button {  
+    
+  line-height:25px;
+  text-decoration: none;
+  text-align: center;
+  padding-right: 2%;
+  padding-bottom: 0.5%;
+ 
+}
+
+#button a {
+    text-decoration: none;
+    color: rgb(66, 66, 66); 
+    
+}
+
+#button li{
+    text-align: center;
+    padding-bottom: 5%;
+     display: inline;
+     margin: auto;
+     padding: 50px 50px;
+     
+}
+
+/* --------------------------------------- Price list */
+
+#prices {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* --------------------------------------- Images */
+
+.logo {
+    
+    border-radius: 50%;
+    
+}
+
+.background-img {
+    position: absolute;
+    z-index: -1;
+    padding-left: 25%;
+}
+
+.gallery-images {
+    clear: both; 
+    column-count: 1;
+  text-align: center;
+  padding-top: 7%;
+}
+
+.gallery-images img {
+     padding-top: 3px;
+    height:200px; 
+    width:200px;
+     
+}
+
+
+/* --------------------------------------- Social Media */
+
+.social-networks {
+    text-align: center;
+    
+}
+.social-networks li {
+   display: inline;
+     margin: auto;
+    height: 30px;
+    width: 50%;    
+}
+
+.social-networks i{
+  font-size: 160%;
+  margin: 12px;
+  padding: 12px 12px;
+  color: #0734ff;
+  
+}
+
+footer {
+    padding-top: 25%;
+}
