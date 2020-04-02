@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 /* --------------------------------------- Heading */
-
+body {
+    font-family: "Playfair";
+}
 h1 {
     margin: 0
 }
@@ -9,6 +12,7 @@ h3{
     text-align: center;
     letter-spacing: 2px;
     padding-top: 15%;
+    
 }
 .uppercase {
 text-transform: uppercase;
@@ -81,6 +85,18 @@ font-weight: bold;
 #prices p {
     letter-spacing: 2px;
     text-transform: uppercase;
+}
+
+#small {
+    font-size: 12px;
+}
+
+.news {
+    text-align: center;
+}
+
+.massage {
+    padding-top: 100px;
 }
 
 /* --------------------------------------- Images */
