@@ -75,6 +75,12 @@ font-weight: bold;
 #prices {
     text-align: center;
     font-weight: bold;
+    
+}
+
+#prices p {
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 /* --------------------------------------- Images */
