@@ -47,6 +47,7 @@ and possibly a different way for customers to book appoints.
 TECHNOLOGIES USED:
 
 The project uses mainly HTML, CSS and BOOTSTRAP to implement and style the website.
+Aslo font awesome and google fonts were used to add to the stle of the website.
 
 TESTING:
 
@@ -58,18 +59,24 @@ DEPLOYMENT:
 
 
 
+
+
+
+
+
+
 CREDITS:
 
 
 Content:
 
-All text
+No code, text or information was taken from any website via copy and paste only the home page image and social link icons and font styles were stated. 
 
 Media:
 
 The logo and images in the gallery are all provided by the beautician herself.
 The image on the home page was taken from imugr courtesy of Medispa Facial Treatments at Golla Center for Plastic Surgery and Medi Spa.
-
+Social link images were taken front font awesome
 
 Acknowledgements:
 
