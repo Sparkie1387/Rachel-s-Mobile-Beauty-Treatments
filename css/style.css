@@ -154,9 +154,54 @@ footer {
     padding-top: 25%;
 }
 
+@media screen and (max-width:1200px) {
+
+
+
+.gallery-images {
+    column-count: 2;
+}
+
+.background-img {
+    padding: 0;
+}
+
+.about-me {
+    font-size: 10px;
+}
+
+#button {
+    column-count: 2;
+    display: contents;
+    
+}
+
+footer{
+ padding-top: 50%;
+}
+
+}
+
 @media screen and (max-width: 992px) {
 
 .gallery-images {
     column-count: 2;
 }
+
+.background-img {
+    padding: 0;
+}
+
+.about-me {
+    font-size: 10px;
+}
+
+#button {
+    column-count: 2;
+    display:contents;
+    font-size: 15px;
+}
+
+
+
 }
