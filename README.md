@@ -44,10 +44,12 @@ The social links at the footer link to the beauticians facebook and instagram pa
 New feautres may be added to the site like a promotions tab or if she starts working in a shop a few days a week with an address and directions to the shop
 and possibly a different way for customers to book appoints.
 
+
 TECHNOLOGIES USED:
 
 The project uses mainly HTML, CSS and BOOTSTRAP to implement and style the website.
 Aslo font awesome and google fonts were used to add to the stle of the website.
+
 
 TESTING:
 
