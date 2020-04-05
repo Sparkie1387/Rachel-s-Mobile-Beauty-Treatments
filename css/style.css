@@ -156,8 +156,6 @@ footer {
 
 @media screen and (max-width:1200px) {
 
-
-
 .gallery-images {
     column-count: 2;
 }
@@ -171,9 +169,20 @@ footer {
 }
 
 #button {
+    padding-top: 0%;
+    padding-bottom: 0%;
     column-count: 2;
     display: contents;
     
+}
+
+#button li {
+    padding:0;
+    
+}
+
+#button a {
+    font-size: 10px;
 }
 
 footer{
@@ -197,11 +206,21 @@ footer{
 }
 
 #button {
+    padding-top: 0%;
+    padding-bottom: 0%;
     column-count: 2;
     display:contents;
     font-size: 15px;
 }
 
+#button li {
+   padding:0;
+    
+}
 
+
+#button a {
+    font-size: 10px;
+}
 
 }
