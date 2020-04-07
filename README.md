@@ -54,16 +54,14 @@ Aslo font awesome and google fonts were used to add to the stle of the website.
 TESTING:
 
 I have manually tested the site extensivly by clicking on each tab and making sure each tab goes to the correct location and provides the correct information and also
-doesn't open a new window so the back and forward buttons can be used. I have also click both facebook and instagram links on all pages to make sure the open a new window and connect to 
-the relevant sites.
+doesn't open a new window so the back and forward buttons can be used. I have also click both facebook and instagram links on all pages to make sure the open a new window and 
+connect to the relevant sites.
+
 
 DEPLOYMENT:
 
-
-
-
-
-
+I deployed my project using github pages. After saving my work using the git commands of git add, git commit and git push I then went to options and to the github pages section
+and selected source and then the master branch option then refreshed the pages to save I clicked on the link to the site to test and works perfectly.
 
 
 
