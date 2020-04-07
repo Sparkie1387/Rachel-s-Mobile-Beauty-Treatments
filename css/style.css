@@ -188,6 +188,10 @@ footer{
  padding-top: 50%;
 }
 
+h3 {
+    font-size: 25px;
+}
+
 }
 
 @media screen and (max-width: 992px) {
@@ -222,7 +226,52 @@ footer{
     font-size: 10px;
 }
 
+h3 {
+    font-size: 25px;
+}
+
 #email {
-  font-size: 19px;
+  font-size: 20px;
+}
+}
+
+@media screen and (max-width: 600px) {
+
+.gallery-images {
+    column-count: 2;
+}
+
+.background-img {
+    padding: 0;
+}
+
+.about-me {
+    font-size: 10px;
+}
+
+#button {
+    padding-top: 0%;
+    padding-bottom: 0%;
+    column-count: 2;
+    display:contents;
+    font-size: 15px;
+}
+
+#button li {
+   padding:0;
+     
+}
+
+
+#button a {
+    font-size: 10px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#email {
+  font-size: 15px;
 }
 }
