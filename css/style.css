@@ -5,7 +5,10 @@ body {
     font-family: "Playfair";
 }
 h1 {
-    margin: 0
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+    
 }
 
 h3{
