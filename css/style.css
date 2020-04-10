@@ -14,7 +14,7 @@ h1 {
 h3{
     text-align: center;
     letter-spacing: 2px;
-    padding-top: 15%;
+    padding-top: 7%;
     
 }
 .uppercase {
@@ -99,7 +99,10 @@ font-weight: bold;
 
 /* --------------------------------------- Form */
 
-
+form {
+    border: 5px soild grey;
+   
+}
 /* --------------------------------------- Social Media */
 
 .social-networks {
