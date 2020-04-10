@@ -41,41 +41,7 @@ font-weight: bold;
 
 }
 
-/* --------------------------------------- Buttons */
-
-#button{
-    
-  font-size: 125%;
-  list-style-type: none;
-  letter-spacing: 2px;
-  padding-top: 0;
-   
-}
-
-#button {  
-    
-  line-height:25px;
-  text-decoration: none;
-  text-align: center;
-  padding-right: 2%;
-  padding-bottom: 0.5%;
- 
-}
-
-#button a {
-    text-decoration: none;
-    color: rgb(66, 66, 66); 
-    
-}
-
-#button li{
-    text-align: center;
-    padding-bottom: 5%;
-     display: inline;
-     margin: auto;
-     padding: 50px 50px;
-     
-}
+/* --------------------------------------- Navbar */
 
 /* --------------------------------------- Price list */
 
