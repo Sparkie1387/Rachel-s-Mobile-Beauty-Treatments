@@ -16,8 +16,7 @@
 <body>
 	<header>
 
-		<h1 class="main-heading uppercase logo">
-			<img src="images/logo.jpg" height="100px" width="100px" class="logo"><br>Rachel's Mobile
+		<h1 class="main-heading uppercase logo"><img src="images/logo.jpg" height="100px" width="100px" class="logo"><br>Rachel's Mobile
 			<br> Beauty Treatments</h1>
 
 
@@ -53,39 +52,65 @@
 					<li class="nav-item">
 						<a class="nav-link" href="gallery.html">Gallery</a>
 					</li>
-					
+
 				</ul>
 			</div>
 		</nav>
 	</section>
+
 	<section class="info">
 		<h3>For more information and to book an appointment: <br> TEL: 07938816307 <br> EMAIL: <a id="email"
 				href="mailto:rachelsbeautytreatments@outlook.com">rachelsbeautytreatments@outlook.com</a></h3>
 	</section>
-	<form action="/action_page.php" style="text-align:center;">
-		<label for="fname">First name:</label><br>
-		<input type="text" id="fname" value="First name" required><br><br>
 
-		<label for="fname">Email address:</label><br>
-		<input type="email" id="email" value="Email" required><br><br>
+	<form>
+		<div class="form-group">
+			<label for="fname">Full Name:</label>
+			<input type="text" class="form-control" id="fullname" placeholder="Full Name*" required>
+  </div>
+			<div class="form-group">
+				<label for="exampleInputEmail1">Email address:</label>
+				<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email*" required
+				<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+			</div>
+            <div class="form-group">
+			<label for="fname">Phone Number:</label>
+			<input type="text" class="form-control" id="pnumber" placeholder="Phine Number*" required>
+  </div>
+			<div class="form-group">
+				<label for="exampleFormControlTextarea1">Treatments:</label>
+				<textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+			</div>
+            <div class="form-group">
+				<label for="exampleFormControlTextarea1">Parking:</label>
+				<textarea class="form-control" id="exampleFormControlTextarea1" rows="1" required></textarea>
+			</div>
+             <div class="form-group">
+				<label for="exampleFormControlTextarea1">Additional cmeents/Requests:</label>
+				<textarea class="form-control" id="exampleFormControlTextarea1" rows="1" required></textarea>
+			</div>
+			<button type="submit" class="btn btn-secondary" value="send">Submit</button>
+	</form>
 
-		<label for="fname">Phone number:</label><br>
-		<input type="text" id="number" value="Number" required><br><br>
 
-		<label for="message">Message:</label><br>
-		<textarea name="message" id="message" cols="30" rows="10"required></textarea><br><br>
-        
-		<input type="submit" value="Submit">
-       </form>
-		<footer>
-			<ul class="social-networks">
-				<li><a href="https://www.facebook.com/RachelsMobileBeauty/"
-						target="_blank"><i class="fa fa-facebook-square"></i></a></li>
-				<li><a href="https://www.instagram.com/rachelsbeautytreatments/"
-						target="_blank"><i class="fa fa-instagram"></i></a></li>
-			</ul>
+	<footer>
+		<ul class="social-networks">
+			<li><a href="https://www.facebook.com/RachelsMobileBeauty/"
+					target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+			<li><a href="https://www.instagram.com/rachelsbeautytreatments/"
+					target="_blank"><i class="fa fa-instagram"></i></a></li>
+		</ul>
 
-		</footer>
+	</footer>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+		integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+	</script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+	</script>
 </body>
 
 </html>

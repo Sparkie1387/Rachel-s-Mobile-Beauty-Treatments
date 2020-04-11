@@ -29,6 +29,11 @@ header {
     
 }
 
+/* --------------------------------------- Dropdown*/
+
+.dropdown-menu a:hover {
+    background-color: #b6b5b5
+}
 
 /* --------------------------------------- Information About Me */
 
@@ -40,8 +45,6 @@ letter-spacing: 2px;
 font-weight: bold;
 
 }
-
-/* --------------------------------------- Navbar */
 
 /* --------------------------------------- Price list */
 
@@ -99,9 +102,11 @@ font-weight: bold;
 
 /* --------------------------------------- Form */
 
-form {
-    border: 5px soild grey;
-   
+form{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding-top: 25px;
 }
 /* --------------------------------------- Social Media */
 
