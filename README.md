@@ -70,13 +70,14 @@ CREDITS:
 
 Content:
 
-No code, text or information was taken from any website via copy and paste only the home page image and social link icons and font styles were stated. 
+The code for the navbar and dropdown and for the form on the contact page was taken from bootstrap . 
 
 Media:
 
 The logo and images in the gallery are all provided by the beautician herself.
 The image on the home page was taken from imugr courtesy of Medispa Facial Treatments at Golla Center for Plastic Surgery and Medi Spa.
-Social link images were taken front font awesome
+Social link images were taken front font awesome.
+Navbar and dropdown and also the form on the contact page are taken from bootstrap.
 
 Acknowledgements:
 
