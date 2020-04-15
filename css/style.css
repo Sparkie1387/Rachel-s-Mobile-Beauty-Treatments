@@ -80,7 +80,6 @@ font-weight: bold;
 }
 
 .background-img {
-   position: relative;
    display: block;
    margin-left: auto;
    margin-right: auto;
@@ -130,7 +129,7 @@ form{
 }
 
 footer {
-    padding-top: 25%;
+    padding-top: 5%;
 }
 
 @media screen and (max-width:1200px) {
