@@ -208,6 +208,10 @@ h3 {
     font-size: 25px;
 }
 
+footer{
+ padding-top: 5%;
+}
+
 #email {
   font-size: 20px;
 }
@@ -247,6 +251,10 @@ h3 {
 
 h3 {
     font-size: 20px;
+}
+
+footer{
+ padding-top: 5%;
 }
 
 #email {
