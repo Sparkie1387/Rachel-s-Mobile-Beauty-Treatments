@@ -113,6 +113,11 @@ form{
     text-align: center;
     
 }
+
+.social-networks {
+    padding-left: 0;
+}
+
 .social-networks li {
    display: inline;
      margin: auto;
@@ -125,7 +130,6 @@ form{
   margin: 12px;
   padding: 12px 12px;
   color: #0734ff;
-  
 }
 
 footer {
