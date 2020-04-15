@@ -39,11 +39,10 @@ header {
 
 .about-me {
 text-align: center;
-padding: 4%;
-font-size: 110%;
+font-size: 150%;
 letter-spacing: 2px;
 font-weight: bold;
-
+padding: 2.5%;
 }
 
 /* --------------------------------------- Price list */
@@ -51,7 +50,7 @@ font-weight: bold;
 #prices {
     text-align: center;
     font-weight: bold;
-    
+    padding: 2.5%;
 }
 
 #prices p {
