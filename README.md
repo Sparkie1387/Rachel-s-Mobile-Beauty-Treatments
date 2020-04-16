@@ -13,6 +13,7 @@ They can also find the beautician via the social media links. So there are multi
 
 UX:
 
+
 The website is for people who would like a beautician who can come to their home, covers a local area and can work 
 weekends and afternoon/evenings to accommodate their schedule.
 There are several buttons to click onto see the different treatments and prices for these services also there is a gallery of previuos work
@@ -24,6 +25,10 @@ and get in touch to make a booking.
 
 working a busy schedule and looking after the kids it is hard to find the time to get to to a Salon, thats where Rachels Mobile Beauty comes in handy, 
 she is willing to travel to me in the eveinging/weekends and then i still get to spend that quality time i do have with my family.
+
+WIREFRAMES:
+
+
 
 
 FEATURES:
