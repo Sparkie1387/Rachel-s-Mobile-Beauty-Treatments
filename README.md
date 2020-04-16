@@ -1,4 +1,4 @@
-                              <https://sparkie1387.github.io/Rachel-s-Mobile-Beauty-Treatments/>
+                              <a href="https://sparkie1387.github.io/Rachel-s-Mobile-Beauty-Treatments/">Rachel's Mobile Beauty Treatments</a>
                                                   
                                        
                                          Rachel's Mobile Beauty Treatments
