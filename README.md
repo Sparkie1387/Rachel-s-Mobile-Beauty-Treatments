@@ -1,7 +1,7 @@
 # https://sparkie1387.github.io/Rachel-s-Mobile-Beauty-Treatments/
                                                   
                                        
-                                                    Rachel's Mobile Beauty Treatments
+<h1>                                                 Rachel's Mobile Beauty Treatments </h1>
     
 
 OVERVIEW:
@@ -31,6 +31,7 @@ This is an image of what my site first looked like. After some feed back from fa
 on google. As you can see the color schemes and layout have change completely and everything is easier to see and navigate. The images I first used were from imugr 
 which are now no longer used only the image on the home page is from imugr and the rest are provided from the beauty therapist. I also changed the color scheme to a
 white and light grey color so everything stands out more and doesn't look so crowed. 
+
 <img src="Original-site"/>
 
 
@@ -62,13 +63,24 @@ The project uses mainly HTML, CSS and BOOTSTRAP to implement and style the websi
 Aslo font awesome and google fonts were used to add to the stle of the website.
 
 
-TESTING:
+<h3>TESTING:</h3>
 
 I have manually tested the site extensivly by clicking on each tab and making sure each tab goes to the correct location and provides the correct information and also
 doesn't open a new window so the back and forward buttons can be used. I have also click both facebook and instagram links on all pages to make sure the open a new window and 
 connect to the relevant sites.
 
+Validators used:
 
+<h5>W3C CSS Validator</h5>
+no errors found.
+1 warning Imported style sheets are not checked in direct input and file upload modes
+
+<h5>W3C HTML validator</h5> 
+no errors
+3 warnings section lacks heading consider using h2-h6 elements to add identifying headings to all sections.
+
+<h5>Responsinator</h5>
+Used responsinator.com to see my site working on mobile and table devices.
 DEPLOYMENT:
 
 I deployed my project using github pages. After saving my work using the git commands of git add, git commit and git push I then went to options and to the github pages section
