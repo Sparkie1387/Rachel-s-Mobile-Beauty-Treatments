@@ -27,8 +27,8 @@ she is willing to travel to me in the eveinging/weekends and then i still get to
 
 WIREFRAMES:
 
-![https://imgur.com/BQgYg0W]()
 
+<img Original-site>
 
 FEATURES:
 
