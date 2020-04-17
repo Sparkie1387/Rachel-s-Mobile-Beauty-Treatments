@@ -26,7 +26,7 @@ working a busy schedule and looking after the kids it is hard to find the time t
 she is willing to travel to me in the eveinging/weekends and then i still get to spend that quality time i do have with my family.
 
 <h2>WIREFRAMES:</h2>
-<img src="Original-site2.png"/>
+
 This is an image of what my site first looked like. After some feed back from family members i change the whole website with some influnces from other websites i found
 on google. As you can see the color schemes and layout have change completely and everything is easier to see and navigate. The images I first used were from imugr 
 which are now no longer used only the image on the home page is from imugr and the rest are provided from the beauty therapist. I also changed the color scheme to a
@@ -34,7 +34,7 @@ white and light grey color so everything stands out more and doesn't look so cro
 
 <img src="Original-site"/>
 
-
+<img src="Original-site2.png"/>
 
 <h2>FEATURES:</h2>
 
