@@ -38,16 +38,9 @@ white and light grey color so everything stands out more and doesn't look so cro
 <h2>FEATURES:</h2>
 
 The differentfeatures of my project are as follows:
-<h4>
-Nails 
-Facial
-Eyebrows and Lashes
-Treatments
-Waxing
-gallery
-Contact
-Social links
-</h4>
+
+<h4>Nails, Facial, Eyebrows and Lashes, Treatments, Waxing, gallery, Contact and Social links</h4>
+
 The nails, facial, Eyebrows and lashes, treatments and waxing tabs provide information on the time and prices of each treatment avaliable.
 The gallery tab shows images of previous work which will possibly be adding more image to overtime.
 The contact tab provides information on how to get in touch with the beautician to arrange bookings and ask for morew information if needed.
