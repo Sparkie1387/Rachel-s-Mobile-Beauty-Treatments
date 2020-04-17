@@ -13,8 +13,6 @@ They can also find the beautician via the social media links. So there are multi
 
 UX:
 
-# Original-site.jpeg
-
 The website is for people who would like a beautician who can come to their home, covers a local area and can work 
 weekends and afternoon/evenings to accommodate their schedule.
 There are several buttons to click onto see the different treatments and prices for these services also there is a gallery of previuos work
@@ -29,7 +27,7 @@ she is willing to travel to me in the eveinging/weekends and then i still get to
 
 WIREFRAMES:
 
-
+![Image description](Original-site.jpeg)
 
 
 FEATURES:
