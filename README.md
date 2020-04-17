@@ -1,7 +1,7 @@
 # https://sparkie1387.github.io/Rachel-s-Mobile-Beauty-Treatments/
                                                   
                                        
-<h1>                                                 Rachel's Mobile Beauty Treatments </h1>
+<h1 style="text-align:center;">Rachel's Mobile Beauty Treatments </h1>                                                 
     
 
 <h2>OVERVIEW:</h2>
