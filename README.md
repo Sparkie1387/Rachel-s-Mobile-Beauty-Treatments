@@ -27,8 +27,10 @@ she is willing to travel to me in the eveinging/weekends and then i still get to
 
 WIREFRAMES:
 
-
+This is an image of what my site first looked like. After some feed back from family members i change the whole website with some influnces from other websites i found
+on google. As you can see the color schemes and layout have change completely and everything is easier to see and navigate. 
 <img src="Original-site"/>
+
 
 FEATURES:
 
